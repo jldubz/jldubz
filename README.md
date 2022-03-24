@@ -12,8 +12,11 @@
 Hi there 👋
 
 My name is Jon-Luke West. I am a designer, an engineer, and a tech wizard :mage: I create technology that is intuitive to use, humanist in intent, and accessible by everyone.
+
+I'm the director of engineering at [HomeSeer](https://homeseer.com/). We work to build automation systems through an easy to use platform for every home owner, providing experiences that are secure, reliable, and extensible. We offer [an open-source plugin SDK](https://github.com/HomeSeer/Plugin-SDK) you can use to extend the HomeSeer platform to do whatever you can dream of. [Check us out and join the community!](https://homeseer.com/)
+
 <!--LinkedIn Learning Courses-->
-I am a programming teacher with courses on Android and Java development. Check them out on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-luke-west)
+I am also a programming teacher with courses on Android and Java development. Check them out on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-luke-west)
 * [Java with JSON](https://www.linkedin.com/learning/java-with-json)
   * In this course, we go over the use of data serialization/deserialization, the way JSON acts as the format, the syntax of JSON, how to read and write JSON in an application, and additional ways you can control the way data is handled.
 * [Distributing Your Android App for Kotlin Developers](https://www.linkedin.com/learning/distributing-your-android-app-for-kotlin-developers)
