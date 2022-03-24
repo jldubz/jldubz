@@ -32,7 +32,9 @@ I am also a programming teacher with courses on Android and Java development. Ch
 
 [![JL's GitHub stats](https://github-readme-stats.vercel.app/api?username=jldubz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Top Langs is not reporting correctly right now. It is only reporting on code in repos I own; which is inaccurte.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jldubz&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## Skills
 
