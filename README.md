@@ -13,6 +13,7 @@ Hi there 👋
 My name is Jon-Luke West. I am a designer, an engineer, and a tech wizard :mage:
 <!--LinkedIn Learning Courses-->
 Check out my courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-luke-west)
+* [Java with JSON](https://www.linkedin.com/learning/java-with-json)
 * [Distributing Your Android App for Kotlin Developers](https://www.linkedin.com/learning/distributing-your-android-app-for-kotlin-developers)
 * [Android Development: Retrofit with Java](https://www.linkedin.com/learning/android-development-retrofit-with-java)
 * [Android Development Essential Training: Distributing Apps with Java](https://www.linkedin.com/learning/android-development-essential-training-distributing-apps-with-java)
