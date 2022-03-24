@@ -1,31 +1,37 @@
 [![Header Image](assets/jlwiz_1600x700.png)](http://jonlukewest.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=269A96)](https://twitter.com/jonlukewest)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=269A96)](https://www.linkedin.com/in/jon-luke-west/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=269A96)](https://twitter.com/jonlukewest)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=269A96)](https://www.instagram.com/jonlukewest/)
 [![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-Profile-informational?style=flat&logo=thingiverse&logoColor=white&color=269A96)](https://www.thingiverse.com/jldubz/designs)
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=269A96)](https://stackoverflow.com/users/5128151/jl-west)
 [![Stack Exchange Badge](https://img.shields.io/badge/StackExchange-Profile-informational?style=flat&logo=stackexchange&logoColor=white&color=269A96)](https://stackexchange.com/users/6521186/jl-west)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=269A96)](https://www.hackerrank.com/jldubz)
 [![Codecademy Badge](https://img.shields.io/badge/Codecademy-Profile-informational?style=flat&logo=codecademy&logoColor=white&color=269A96)](https://www.codecademy.com/profiles/cptnjldubz)
-[![Goodreads Badge](https://img.shields.io/badge/Goodreads-Profile-informational?style=flat&logo=goodreads&logoColor=white&color=269A96)](https://www.hackerrank.com/jldubz)
+[![Goodreads Badge](https://img.shields.io/badge/Goodreads-Profile-informational?style=flat&logo=goodreads&logoColor=white&color=269A96)](https://www.goodreads.com/jldubz)
 
 Hi there 👋
 
-My name is Jon-Luke West. I am a designer, an engineer, and a tech wizard :mage:
+My name is Jon-Luke West. I am a designer, an engineer, and a tech wizard :mage: I create technology that is intuitive to use, humanist in intent, and accessible by everyone.
 <!--LinkedIn Learning Courses-->
-Check out my courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-luke-west)
+I am a programming teacher with courses on Android and Java development. Check them out on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-luke-west)
 * [Java with JSON](https://www.linkedin.com/learning/java-with-json)
+  * In this course, we go over the use of data serialization/deserialization, the way JSON acts as the format, the syntax of JSON, how to read and write JSON in an application, and additional ways you can control the way data is handled.
 * [Distributing Your Android App for Kotlin Developers](https://www.linkedin.com/learning/distributing-your-android-app-for-kotlin-developers)
+  * So you’ve built an Android app, and you’re ready to share it with the world. Now what? There are many ways you can distribute your app, and in this course, we show you how to use the primary distribution channel, the Google Play Store, as well as the Amazon Appstore.
 * [Android Development: Retrofit with Java](https://www.linkedin.com/learning/android-development-retrofit-with-java)
+  * This course explains how to use Retrofit to connect an Android app to the cloud. We review the basics of web communication with REST APIs and the methods for reading and writing data to the cloud.
 * [Android Development Essential Training: Distributing Apps with Java](https://www.linkedin.com/learning/android-development-essential-training-distributing-apps-with-java)
+  * Once you've created an Android app, it's time to share it with the world. Luckily, there are many avenues to distribution. This course focuses on the two primary channels: Google Play and the Amazon Appstore.
 * [Android App Development: Enterprise Integration](https://www.linkedin.com/learning/android-app-development-enterprise-integration)
+  * Offering enterprise integration options can open untapped opportunities for your apps. This course shows you how to leverage your existing Android development skills and build apps for this valuable market.
 
-## :bar_chart: GitHub Stats
+## GitHub Stats
 
 [![JL's GitHub stats](https://github-readme-stats.vercel.app/api?username=jldubz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jldubz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jldubz&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## :briefcase: Skills
+## Skills
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=269A96)
