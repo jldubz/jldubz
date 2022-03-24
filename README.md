@@ -1,4 +1,4 @@
-[![Header Image](assets/BGOnly_Cut2_1600x583.png)](http://jonlukewest.com)
+[![Header Image](assets/jlwiz_1600x700.png)](http://jonlukewest.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=269A96)](https://twitter.com/jonlukewest)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=269A96)](https://www.linkedin.com/in/jon-luke-west/)
 [![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-Profile-informational?style=flat&logo=thingiverse&logoColor=white&color=269A96)](https://www.thingiverse.com/jldubz/designs)
@@ -13,6 +13,7 @@ Hi there 👋
 My name is Jon-Luke West. I am a designer, an engineer, and a tech wizard :mage:
 <!--LinkedIn Learning Courses-->
 Check out my courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jon-luke-west)
+* [Java with JSON](https://www.linkedin.com/learning/java-with-json)
 * [Distributing Your Android App for Kotlin Developers](https://www.linkedin.com/learning/distributing-your-android-app-for-kotlin-developers)
 * [Android Development: Retrofit with Java](https://www.linkedin.com/learning/android-development-retrofit-with-java)
 * [Android Development Essential Training: Distributing Apps with Java](https://www.linkedin.com/learning/android-development-essential-training-distributing-apps-with-java)
@@ -33,6 +34,7 @@ Check out my courses on [LinkedIn Learning](https://www.linkedin.com/learning/in
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=269A96)
+![](https://img.shields.io/badge/Protocol-ZWave-informational?style=flat&logo=zwave&logoColor=white&color=269A96)
 
 <details>
 <summary>More Skills</summary>
@@ -78,22 +80,5 @@ Check out my courses on [LinkedIn Learning](https://www.linkedin.com/learning/in
 ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=blender&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Tools-Fusion360-informational?style=flat&logo=autodesk&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=269A96)
-
-![](https://img.shields.io/badge/Protocol-ZWave-informational?style=flat&logo=zwave&logoColor=white&color=269A96)
   
 </details>
-
-<!--
-**jldubz/jldubz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
