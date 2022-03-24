@@ -34,6 +34,7 @@ Check out my courses on [LinkedIn Learning](https://www.linkedin.com/learning/in
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=269A96)
+![](https://img.shields.io/badge/Protocol-ZWave-informational?style=flat&logo=zwave&logoColor=white&color=269A96)
 
 <details>
 <summary>More Skills</summary>
@@ -79,22 +80,5 @@ Check out my courses on [LinkedIn Learning](https://www.linkedin.com/learning/in
 ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=blender&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Tools-Fusion360-informational?style=flat&logo=autodesk&logoColor=white&color=269A96)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=269A96)
-
-![](https://img.shields.io/badge/Protocol-ZWave-informational?style=flat&logo=zwave&logoColor=white&color=269A96)
   
 </details>
-
-<!--
-**jldubz/jldubz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
