@@ -1,4 +1,4 @@
-[![Header Image](assets/jlwiz_1600x700.png)](http://jonlukewest.com)
+[![Header Image](assets/jlwiz_1600x700.png)](https://www.jonlukewest.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=269A96)](https://www.linkedin.com/in/jon-luke-west/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=269A96)](https://twitter.com/jonlukewest)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=269A96)](https://www.instagram.com/jonlukewest/)
